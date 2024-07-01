@@ -1,2 +1,2 @@
 # flaggame.github.io
-very good flag game
+что вы тут забыли, не надо это читать
