@@ -1,6 +1,6 @@
 body {
   background: #01094f linear-gradient(#01094f, #010931);
-  font-family: 'Moloko', sans-serif;
+  font-family: 'Rubik', sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -38,12 +38,12 @@ h1 {
   text-align: center;
   margin-bottom: 130px;
   border-radius: 5px;
-  box-shadow: 0 0 50px rgba(0, 0, 0, 2.1);
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
 }
 
 #flag {
   width: 100%;
-  max-width: 200px;
+  max-width: 300px;
   height: auto;
   border-radius: 10px;
   box-shadow: 0 0 50px rgba(0, 0, 0, 2.1);
@@ -64,7 +64,7 @@ h1 {
   cursor: pointer;
   transition: all 0.3s ease;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 100%;
   color: white;
   box-shadow: 0 6px 8px rgba(73, 64, 208, 0.4);
   position: relative;
@@ -94,7 +94,7 @@ h1 {
 
 .option.incorrect {
   background: linear-gradient(#fd4f60, #fd364c);
-  color: black;
+  color: white;
   box-shadow:
     0 0 40px rgba(255, 0, 0, 0.4),
     0 0 80px rgba(255, 0, 0, 0.3);
