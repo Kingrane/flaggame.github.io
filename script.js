@@ -8,6 +8,13 @@ const flags = [
   { name: "Китай", image: "https://flagcdn.com/w320/cn.png" },
   { name: "Япония", image: "https://flagcdn.com/w320/jp.png" },
   { name: "Индия", image: "https://flagcdn.com/w320/in.png" },
+  { name: "Бруней", image: "https://flagcdn.com/w320/bn.png" },
+  { name: "Кения", image: "https://flagcdn.com/w320/ke.png" },
+  { name: "Албания", image: "https://flagcdn.com/w320/al.png" },
+  { name: "Индонезия", image: "https://flagcdn.com/w320/id.png" },
+  { name: "Польша", image: "https://flagcdn.com/w320/pl.png" },
+  { name: "Аргентина", image: "https://flagcdn.com/w320/ar.png" },
+  { name: "Панама", image: "https://flagcdn.com/w320/pa.png" },
   // Добавьте больше флагов здесь
 ];
 
