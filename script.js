@@ -15,7 +15,7 @@ const flags = [
   { name: "Польша", image: "https://flagcdn.com/w320/pl.png" },
   { name: "Аргентина", image: "https://flagcdn.com/w320/ar.png" },
   { name: "Панама", image: "https://flagcdn.com/w320/pa.png" },
-  // Добавьте больше флагов здесь
+  
 ];
 
 let score = 0;
